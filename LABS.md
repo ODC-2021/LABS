@@ -28,3 +28,15 @@ Explicación de que hace...
 - Vispo, Valentina [[@shirosweets](https://github.com/shirosweets)]
 
 - [El_cuervo_significa_progreso_Gimenez_Vispo](https://github.com/shirosweets/vc-framebuffer/blob/main/README.md)
+
+
+## Flappy bird armv8
+Animación de juego flappy bird en armv8, para raspberry pi 3 (o emulador)
+
+### Integrantes
+- Fuentes, Tiffany [[@tiffanyFuentes](https://github.com/tiffanyFuentes)]
+- Renison, Iván [[@IvanRenison](https://github.com/IvanRenison)]
+
+
+
+- [Flappy_bird_armv8](https://github.com/Flappy-bird-armv8/Flappy_bird_armv8)
