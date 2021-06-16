@@ -1,3 +1,6 @@
 [submodule "vc-framebuffer_Gimenez_Vispo"]
 	path = vc-framebuffer_Gimenez_Vispo
 	url = https://github.com/shirosweets/vc-framebuffer
+[submodule "Flappy_bird_armv8_Fuentes_Renison"]
+	path = Flappy_bird_armv8_Fuentes_Renison
+	url = https://github.com/Flappy-bird-armv8/Flappy_bird_armv8
