@@ -26,7 +26,7 @@ Pasos a seguir:
 - Se pierden los commits si los han realizado en otro repositorio.
 - Límite de 5000MB o 500MB (dependiendo el tipo de cuenta de Github) por commit.
 
-### Pasos a seguir en el repositorio
+### Pasos a seguir en el repositorio F1
 1. Crear una branch con el formato `apellido1_apellido_2`.
     > `git branch apellido1_apellido_2`
 
