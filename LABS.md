@@ -27,4 +27,4 @@ Explicación de que hace...
 - Gimenez, Diego
 - Vispo, Valentina [[@shirosweets](https://github.com/shirosweets)]
 
-- [El_cuervo_significa_progreso_Gimenez_Vispo](vc-framebuffer_Gimenez_Vispo/README.md)
+- [El_cuervo_significa_progreso_Gimenez_Vispo](https://github.com/shirosweets/vc-framebuffer/blob/main/README.md)
