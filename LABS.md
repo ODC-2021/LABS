@@ -27,6 +27,10 @@ Explicación de que hace...
 - Gimenez, Diego
 - Vispo, Valentina [[@shirosweets](https://github.com/shirosweets)]
 
+`doAnimacionInicial` (Hacer click en la imagen para ir al video de YT)
+
+[![Alt text for your video](https://i9.ytimg.com/vi/stEPF3ZAWOM/mq1.jpg?sqp=CKDQrYYG&rs=AOn4CLCPR-xgW59QgnwAQ_ByMkgbFlMZjw)](https://youtu.be/stEPF3ZAWOM)
+
 - [El_cuervo_significa_progreso_Gimenez_Vispo](https://github.com/shirosweets/vc-framebuffer/blob/main/README.md)
 
 
